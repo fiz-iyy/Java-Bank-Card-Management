@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BANK_GUI
+comment1.params=
+comment1.target=BANK_GUI()
+comment1.text=\r\n\ This\ Method\ create\ a\ constructor\ for\ Bank\ Gui\ and\ creats\ its\ JFrame\ and\ JPannel\ with\ two\ JButtons\ Debit\ Card\ and\ Credit\ Card\r\n
+comment2.params=
+comment2.target=void\ Credit_Card()
+comment2.text=\r\n\ \ This\ Method\ create\ a\ method\ for\ Bank\ Gui\ and\ creatas\ credit\ card\ JFrame\ and\ JPannel\ with\ JButtons,\ JTextFields,\ JLabels\ and\ JComboBoxes\ \r\n
+comment3.params=
+comment3.target=void\ Debit_Card()
+comment3.text=\r\n\ \ This\ Method\ create\ a\ method\ for\ Bank\ Gui\ and\ creatsa\ debitit\ card\ JFrame\ and\ JPannel\ with\ JButtons,\ JTextFields,\ JLabels\ and\ JComboBoxes\ \r\n
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\r\n\ This\ Method\ handles\ the\ button\ clicks\ and\ exceptions\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
